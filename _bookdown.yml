@@ -15,13 +15,13 @@ rmd_files: [
 
   "FP.Rmd",
   "Functional-programming.Rmd",
-  "Functionals.Rmd",
+  #"Functionals.Rmd",
   "Function-operators.Rmd",
 
   "OO.Rmd",
   "base-types.Rmd",
-  "S3.Rmd",
-  "S4.Rmd",
+  #"S3.Rmd",
+  #"S4.Rmd",
   "R6.Rmd",
   "OO-tradeoffs.Rmd",
 
@@ -33,6 +33,7 @@ rmd_files: [
 
   "Perf.Rmd",
   "Performance.Rmd",
-  "Profiling.Rmd",
-  "Rcpp.Rmd",
+  #"Profiling.Rmd",
+  "Rcpp.Rmd"
 ]
+delete_merged_file: false
